@@ -1,0 +1,1 @@
+dompc=document.domain;if(dompc=='maknyusblogger.com'){var uid='40914';var wid='128970';document.write('<script type="text/javascript" src="http://cdn.popcash.net/pop.js"></script>');}else if(dompc=='musriikmp3.wapka.me'){var uid='40914';var wid='256049';document.write('<script type="text/javascript" src="http://cdn.popcash.net/pop.js"></script>');}
